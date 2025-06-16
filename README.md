@@ -12,7 +12,7 @@ This is a simple IP Lookup Tool built in C#. It allows users to retrieve detaile
 
 ## Preview
 
-![Screenshot](https://github.com/yourusername/your-repo-name/blob/main/screenshot.png?raw=true)
+![Screenshot](https://github.com/captainraidden/IPLookup/blob/main/screenshot.png?raw=true)
 
 ## Getting Started
 

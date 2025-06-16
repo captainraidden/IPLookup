@@ -1,0 +1,14 @@
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\IPLookup.exe.config
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\IPLookup.exe
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\IPLookup.pdb
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\Guna.UI2.dll
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.csproj.AssemblyReference.cache
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.Form1.resources
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.Properties.Resources.resources
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.csproj.GenerateResource.cache
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.csproj.CoreCompileInputs.cache
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.csproj.Up2Date
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.exe
+C:\Users\Scarf\source\repos\IPLookup\IPLookup\obj\Debug\IPLookup.pdb
